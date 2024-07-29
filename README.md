@@ -1,2 +1,2 @@
-# EdQDV-Survey-response-preparation-and-loading
+# EdOrg metadata
 Prep directory metadata for CSU education organizations.
